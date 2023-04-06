@@ -3,6 +3,8 @@
 
 his is the second part of the BeReal clone project where you will add persistence and some cool BeReal functionality to the app.
 
+### Resubmission
+<img src="demo2.gif" />
 
 ### App Walk-though
 
